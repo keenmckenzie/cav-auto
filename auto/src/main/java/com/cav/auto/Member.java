@@ -1,3 +1,5 @@
+package com.cav.auto;
+
 public class Member {
     enum MemberType {
         BASIC,
